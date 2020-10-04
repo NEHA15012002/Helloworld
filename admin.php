@@ -1,4 +1,4 @@
-<?php
+<?php #thanks alot 
 ini_set('session.cookie_lifetime', 60 * 60 * 24 * 7);
 session_start();
 function alert($msg) {
